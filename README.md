@@ -27,3 +27,6 @@ To build the MCP server JAR file, run:
 
 ```bash
 mvn clean install
+
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=jAnWwslyt4o))
+
